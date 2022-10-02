@@ -1,0 +1,9 @@
+{
+  "roomCountStudio": "Студия",
+  "minPrice": "2000000",
+  "maxPrice": "5000000",
+  "minSquare": "25",
+  "maxSquare": "50",
+  "street": "Максима Горького",
+  "district": "Центр: Дом печати"
+}
